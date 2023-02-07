@@ -1,0 +1,17 @@
+#first
+    color:blueviolet
+
+a{
+    text-decoration: none;
+    cursor:grab;
+}
+.box
+{
+    color: blue;
+    margin:50px;
+    padding: 0px 50px;
+    border: 2px;
+    border-style:dashed;
+    display:flex;
+    justify-content: center;
+}
